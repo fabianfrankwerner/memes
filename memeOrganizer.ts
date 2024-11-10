@@ -1,6 +1,5 @@
-// memeOrganizer.ts
-import fs from 'fs/promises';
 import path from 'path';
+import fs from 'fs/promises';
 
 interface MemeInfo {
   originalName: string;
