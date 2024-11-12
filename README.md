@@ -1,48 +1,56 @@
 # Meme Collection
 
-A collection of 20 memes, sorted from newest to oldest.
+A collection of 24 memes, sorted from newest to oldest.
 
 ## Memes
 
-![Meme](memes/meme-1.webp)
+![Meme](memes/meme-1.jpg)
 
-![Meme](memes/meme-2.webp)
+![Meme](memes/meme-2.png)
 
-![Meme](memes/meme-3.webp)
+![Meme](memes/meme-3.png)
 
-![Meme](memes/meme-4.webp)
+![Meme](memes/meme-4.png)
 
-![Meme](memes/meme-5.jpg)
+![Meme](memes/meme-5.webp)
 
-![Meme](memes/meme-6.jpg)
+![Meme](memes/meme-6.webp)
 
-![Meme](memes/meme-7.jpg)
+![Meme](memes/meme-7.webp)
 
 ![Meme](memes/meme-8.webp)
 
-![Meme](memes/meme-9.webp)
+![Meme](memes/meme-9.jpg)
 
-![Meme](memes/meme-10.jpeg)
+![Meme](memes/meme-10.jpg)
 
-![Meme](memes/meme-11.png)
+![Meme](memes/meme-11.jpg)
 
-![Meme](memes/meme-12.png)
+![Meme](memes/meme-12.webp)
 
-![Meme](memes/meme-13.png)
+![Meme](memes/meme-13.webp)
 
-![Meme](memes/meme-14.webp)
+![Meme](memes/meme-14.jpeg)
 
-![Meme](memes/meme-15.webp)
+![Meme](memes/meme-15.png)
 
-![Meme](memes/meme-16.webp)
+![Meme](memes/meme-16.png)
 
-![Meme](memes/meme-17.jpg)
+![Meme](memes/meme-17.png)
 
-![Meme](memes/meme-18.jpg)
+![Meme](memes/meme-18.webp)
 
-![Meme](memes/meme-19.jpg)
+![Meme](memes/meme-19.webp)
 
-![Meme](memes/meme-20.jpg)
+![Meme](memes/meme-20.webp)
+
+![Meme](memes/meme-21.jpg)
+
+![Meme](memes/meme-22.jpg)
+
+![Meme](memes/meme-23.jpg)
+
+![Meme](memes/meme-24.jpg)
 
 ## How to Contribute
 
